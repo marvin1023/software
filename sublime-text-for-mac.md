@@ -129,3 +129,9 @@ F2 下一个书签
 跳转到对应的tag pair：Ctrl Shift T
 添加注释：|c
 inline image to data:URI: Ctrl Shift D
+
+10、edit
+Selecting Code that is Similarly Indented：CTRL/⌘-SHIFT-J
+Selecting Everything Inside an HTML Tag：CTRL/⌘-SHIFT-A
+Switching Lines：CTRL-SHIFT-UP (PC) or CTRL-⌘-UP (Mac)
+Pasting with Indentation： CTRL/⌘-Shift-V
