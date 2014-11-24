@@ -122,3 +122,10 @@ F2 下一个书签
 ⌘] 缩排
 
 ⌘[ 反缩排
+
+
+9、emmet
+计算：Cmd Shift Y
+跳转到对应的tag pair：Ctrl Shift T
+添加注释：|c
+inline image to data:URI: Ctrl Shift D
